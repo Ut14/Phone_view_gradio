@@ -8,7 +8,7 @@ A lightweight image classifier that detects whether a phone image shows the **fr
 
 ## 🚀 Live Demo
 
-👉 Try the deployed app on **[Hugging Face Spaces](https://huggingface.co/spaces/Ut14/phone-view-classifier)**
+👉 Try the deployed app on **[Hugging Face Spaces]([https://huggingface.co/spaces/Ut14/phone-view-classifier](https://huggingface.co/spaces/Ut14/Phone_view_classfier))**
 
 ---
 
